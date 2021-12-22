@@ -18,4 +18,4 @@ Take outs:
   firebase storage, save the firebase url for the image in the firebase db
   firestore so that we can use it whenever we want
 
-Check the demo here: https://facebook-clone-qro42ebvv-jars1987.vercel.app/
+Check the demo here: facebook-clone-silk.vercel.app
